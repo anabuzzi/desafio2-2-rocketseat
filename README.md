@@ -1,8 +1,12 @@
 # desafio2-2-rocketseat
 
-🚀 Sobre o desafio
-A partir do arquivo do desafio 2-1, adicionar um novo link no header chamado Sobre. Essa página deverá mostrar informações referentes a Rocketseat.
+🚀 Sobre o desafio:
 <br>
+<br>
+A partir do desafio 2-1, adicionar uma nova página chamada sobre. Essa página deverá mostrar informações referentes a Rocketseat:
+
+<br>
+:page_with_curl:
 Informações da página
 <br>
 Uma imagem da logo da empresa

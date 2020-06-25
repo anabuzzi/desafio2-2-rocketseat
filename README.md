@@ -8,7 +8,7 @@ A partir do desafio 2-1, adicionar uma nova página chamada sobre. Essa página 
 <br>
 :page_with_curl:
 Informações da página
-<br>
+<br></br>
 Uma imagem da logo da empresa
 <br>
 O nome da empresa

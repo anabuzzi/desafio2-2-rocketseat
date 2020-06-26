@@ -19,6 +19,7 @@ Uma lista com as principais tecnologias utilizadas. Dica: utilize a tag ul para 
 <br>
 Links para as redes sociais da empresa (Github, Instagram e Facebook)
 <br>
+<br></br>
 :triangular_ruler:
 Estilização
 Você tem liberdade para escolher a estilização que preferir para esse desafio, mas alguns pontos são obrigatórios:
@@ -30,8 +31,8 @@ Deve ser utilizada a fonte Roboto
 O nome da empresa e a imagem devem ser destacar do restante
 <br>
 Os links das redes sociais devem ter alguma alteração visual quando o cursor do mouse passar por cima
-
-
+<br></br>
+<br></br>
 Feito por Ana Buzzi :purple_heart:
 
 
